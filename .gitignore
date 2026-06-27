@@ -1,5 +1,5 @@
 # データ
 env/
-data/
+datasets/
 pdfs/
 .DS_Store
