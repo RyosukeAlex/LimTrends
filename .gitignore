@@ -1,1 +1,5 @@
+# データ
 env/
+data/
+pdfs/
+.DS_Store
